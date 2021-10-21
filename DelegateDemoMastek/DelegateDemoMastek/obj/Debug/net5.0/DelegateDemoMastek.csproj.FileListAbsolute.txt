@@ -1,0 +1,16 @@
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\bin\Debug\net5.0\DelegateDemoMastek.exe
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\bin\Debug\net5.0\DelegateDemoMastek.deps.json
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\bin\Debug\net5.0\DelegateDemoMastek.runtimeconfig.json
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\bin\Debug\net5.0\DelegateDemoMastek.runtimeconfig.dev.json
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\bin\Debug\net5.0\DelegateDemoMastek.dll
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\bin\Debug\net5.0\ref\DelegateDemoMastek.dll
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\bin\Debug\net5.0\DelegateDemoMastek.pdb
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.csproj.AssemblyReference.cache
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.AssemblyInfoInputs.cache
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.AssemblyInfo.cs
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.csproj.CoreCompileInputs.cache
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.dll
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\ref\DelegateDemoMastek.dll
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.pdb
+C:\Users\Pooja15126\source\repos\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.genruntimeconfig.cache
