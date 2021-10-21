@@ -1,0 +1,12 @@
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\bin\Debug\net5.0\BankLibrary.deps.json
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\bin\Debug\net5.0\BankLibrary.dll
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\bin\Debug\net5.0\ref\BankLibrary.dll
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\bin\Debug\net5.0\BankLibrary.pdb
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.AssemblyReference.cache
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.dll
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\obj\Debug\net5.0\ref\BankLibrary.dll
+D:\TrainingFiles\Mastek\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.pdb
