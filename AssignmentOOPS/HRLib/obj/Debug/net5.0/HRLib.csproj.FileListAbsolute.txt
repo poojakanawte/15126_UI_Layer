@@ -1,0 +1,11 @@
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\bin\Debug\net5.0\HRLib.deps.json
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\bin\Debug\net5.0\HRLib.dll
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\bin\Debug\net5.0\ref\HRLib.dll
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\bin\Debug\net5.0\HRLib.pdb
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.AssemblyInfoInputs.cache
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.AssemblyInfo.cs
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.csproj.CoreCompileInputs.cache
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.dll
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\obj\Debug\net5.0\ref\HRLib.dll
+D:\TrainingFiles\Mastek\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.pdb
